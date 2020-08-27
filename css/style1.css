@@ -1,0 +1,47 @@
+
+body {
+
+	background-image: url('../image/love.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+	
+}
+
+h2{
+	color: red;
+	text-align: center;
+	border: 5px dashed blue;
+	cursor: pointer;
+}
+
+p {
+	color: black;
+	line-height: 20px;
+	/*text-decoration: underline;*/
+	border: 5px dashed red;
+	text-transform: uppercase;
+	font-style: italic;
+	font-weight: bolder;
+	font-family: "times new roman";
+}
+
+li {
+	
+	display: inline-block;
+}
+a {
+	color: black;
+}
+
+.webtest{
+	border: 20px dashed green;
+}
+.active{
+color: black;
+text-transform: uppercase;
+text-align: center;
+}
+#div1{
+text-transform: uppercase;
+color:green;
+}
