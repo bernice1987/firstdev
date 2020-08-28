@@ -1,9 +1,10 @@
 h1{
 	text-align: center;
 	text-transform: uppercase;
-	color: red;
+	color: black;
 }
 
  body,html{
+
            background-color: yellow;
  }
