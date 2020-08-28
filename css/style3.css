@@ -35,11 +35,11 @@ background-color: yellow;
   	transition: all 1s linear;
   	background: black;
 	  }
-{
+.btn{
 	text-align: center;
 	color: #bbb;
   text-transform: uppercase;
 }
 .text-center{
-	        padding: 250px;
+	        padding: 100px;
 }
