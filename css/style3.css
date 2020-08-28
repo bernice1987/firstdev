@@ -35,11 +35,11 @@ background-color: yellow;
   	transition: all 1s linear;
   	background: black;
 	  }
-h1{
+.btn{
 	text-align: center;
 	color: #bbb;
   text-transform: uppercase;
 }
-.btn{
+.text-center{
 	        padding: 250px;
 }
